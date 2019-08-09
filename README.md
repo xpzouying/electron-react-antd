@@ -5,6 +5,8 @@ Electron integrate with react and antd(ant design)
 
 
 
+![electron-react-antd-demo](./assets/electron-react-antd.jpg)
+
 ### HowTo Use:
 
 
